@@ -5,7 +5,7 @@ import csv
 from datetime import datetime
 
 
-LINK = "https://www.amazon.se/s?k=adidas+byxor&page=2&crid=1XHGQP2FXCFPJ&qid=1724788750&sprefix=adidas+byxor%2Cvideogames%2C103&ref=sr_pg_2"
+LINK = "https://www.amazon.se/s?k=speaker&crid=1Q140QSPCRC28&sprefix=speaker%2Caps%2C122&ref=nb_sb_ss_pltr-data-refreshed_1_7"
 
 def get_prices_by_link(link):
     # Sending request To amazaon
