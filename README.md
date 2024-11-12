@@ -1,4 +1,3 @@
-Här är ett exempel på en **README.md** för din PriceTracker:
 
 ---
 
