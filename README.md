@@ -24,7 +24,7 @@ A Python-based script for tracking product prices on Amazon. This tool automates
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/pricetracker.git
+    git clone https://github.com/nenijk/pricetracker-1.0.git
     cd pricetracker
     ```
 
